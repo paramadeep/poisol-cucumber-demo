@@ -1,0 +1,9 @@
+request:
+  url: soap            
+  method: get  
+  query:
+    date: "21-02-2015"
+response:
+    body:  '{                    
+    "cost": 20            
+    }' 

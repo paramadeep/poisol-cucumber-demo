@@ -1,0 +1,83 @@
+[2015-02-21 01:48:42] INFO  WEBrick 1.3.1
+[2015-02-21 01:48:42] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:48:42] INFO  WEBrick 1.3.1
+[2015-02-21 01:48:42] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:48:42] INFO  WEBrick::HTTPServer#start: pid=12155 port=3030
+[2015-02-21 01:48:42] INFO  going to shutdown ...
+[2015-02-21 01:48:42] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:49:19] INFO  WEBrick 1.3.1
+[2015-02-21 01:49:19] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:49:19] INFO  WEBrick 1.3.1
+[2015-02-21 01:49:19] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:49:19] INFO  WEBrick::HTTPServer#start: pid=12175 port=3030
+[2015-02-21 01:49:19] INFO  going to shutdown ...
+[2015-02-21 01:49:19] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:49:53] INFO  WEBrick 1.3.1
+[2015-02-21 01:49:53] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:49:53] INFO  WEBrick 1.3.1
+[2015-02-21 01:49:53] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:49:53] INFO  WEBrick::HTTPServer#start: pid=12201 port=3030
+[2015-02-21 01:49:53] INFO  going to shutdown ...
+[2015-02-21 01:49:53] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:52:24] INFO  WEBrick 1.3.1
+[2015-02-21 01:52:24] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:52:24] INFO  WEBrick 1.3.1
+[2015-02-21 01:52:24] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:52:24] INFO  WEBrick::HTTPServer#start: pid=12218 port=3030
+[2015-02-21 01:52:24] INFO  going to shutdown ...
+[2015-02-21 01:52:24] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:53:41] INFO  WEBrick 1.3.1
+[2015-02-21 01:53:41] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:53:41] INFO  WEBrick::HTTPServer#start: pid=12264 port=3030
+[2015-02-21 01:53:41] INFO  going to shutdown ...
+[2015-02-21 01:53:41] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:55:01] INFO  WEBrick 1.3.1
+[2015-02-21 01:55:01] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:55:01] INFO  WEBrick::HTTPServer#start: pid=12280 port=3030
+[2015-02-21 01:55:01] INFO  going to shutdown ...
+[2015-02-21 01:55:01] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:56:22] INFO  WEBrick 1.3.1
+[2015-02-21 01:56:22] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:56:22] INFO  WEBrick::HTTPServer#start: pid=12317 port=3030
+[2015-02-21 01:56:22] INFO  going to shutdown ...
+[2015-02-21 01:56:22] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:56:43] INFO  WEBrick 1.3.1
+[2015-02-21 01:56:43] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:56:43] INFO  WEBrick::HTTPServer#start: pid=12351 port=3030
+[2015-02-21 01:56:43] INFO  going to shutdown ...
+[2015-02-21 01:56:43] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:57:09] INFO  WEBrick 1.3.1
+[2015-02-21 01:57:09] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:57:09] INFO  WEBrick::HTTPServer#start: pid=12371 port=3030
+[2015-02-21 01:57:09] INFO  going to shutdown ...
+[2015-02-21 01:57:09] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 01:57:16] INFO  WEBrick 1.3.1
+[2015-02-21 01:57:16] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 01:57:16] INFO  WEBrick::HTTPServer#start: pid=12403 port=3030
+[2015-02-21 01:57:16] INFO  going to shutdown ...
+[2015-02-21 01:57:16] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 02:04:45] INFO  WEBrick 1.3.1
+[2015-02-21 02:04:45] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 02:04:45] INFO  WEBrick::HTTPServer#start: pid=12428 port=3030
+[2015-02-21 02:04:45] INFO  going to shutdown ...
+[2015-02-21 02:04:45] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 02:05:08] INFO  WEBrick 1.3.1
+[2015-02-21 02:05:08] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 02:05:08] INFO  WEBrick::HTTPServer#start: pid=12446 port=3030
+[2015-02-21 02:05:08] INFO  going to shutdown ...
+[2015-02-21 02:05:08] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 02:10:29] INFO  WEBrick 1.3.1
+[2015-02-21 02:10:29] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 02:10:29] INFO  WEBrick::HTTPServer#start: pid=12613 port=3030
+[2015-02-21 02:10:29] INFO  going to shutdown ...
+[2015-02-21 02:10:29] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 02:11:04] INFO  WEBrick 1.3.1
+[2015-02-21 02:11:04] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 02:11:04] INFO  WEBrick::HTTPServer#start: pid=12619 port=3030
+[2015-02-21 02:11:04] INFO  going to shutdown ...
+[2015-02-21 02:11:04] INFO  WEBrick::HTTPServer#start done.
+[2015-02-21 02:11:20] INFO  WEBrick 1.3.1
+[2015-02-21 02:11:20] INFO  ruby 2.1.2 (2014-05-08) [x86_64-linux-gnu]
+[2015-02-21 02:11:20] INFO  WEBrick::HTTPServer#start: pid=12634 port=3030
+[2015-02-21 02:11:20] INFO  going to shutdown ...
+[2015-02-21 02:11:20] INFO  WEBrick::HTTPServer#start done.

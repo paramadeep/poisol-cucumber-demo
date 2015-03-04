@@ -1,0 +1,9 @@
+request:
+  url: india/us            
+  method: get  
+  query:
+    date: "21-02-2015"
+response:
+    body:  '{                    
+    "rates": 100            
+    }' 

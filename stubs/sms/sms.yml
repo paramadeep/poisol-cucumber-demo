@@ -1,0 +1,11 @@
+request:
+  url: send_sms
+  query:
+    number: 2435235423
+  method: post  
+  body:
+    message: "hi"
+response:
+    body:  '{                    
+    "status": "sent"            
+    }' 
